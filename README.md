@@ -28,7 +28,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg" title="Storybook" alt="Storybook" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="40" height="40"/>&nbsp;
-  <img src="https://www.pixso.net/images/logo/logo-text-light.svg" title="Pixso" alt="Pixso" width="40" height="40"/>
 </div>
 
 ### 🎯 В настоящее время:
@@ -36,8 +35,8 @@
 - 🔨 Работаю над пет-проектами
 - 👥 Ищу интересные проекты для сотрудничества
 
-### 🚀 Мои проекты
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OvchinnikovAndpey&repo=название-репозитория)](https://github.com/OvchinnikovAndpey/event-organization-team)
+### 🚀 Мой последний pet-проект
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OvchinnikovAndpey&repo=event-organization-team)](https://github.com/OvchinnikovAndpey/event-organization-team)
 
 ### 🏆 Достижения:
 [![trophy](https://github-profile-trophy.vercel.app/?username=OvchinnikovAndpey&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
