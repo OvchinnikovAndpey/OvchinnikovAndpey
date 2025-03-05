@@ -1,13 +1,25 @@
 <h1 align="center">Всем привет!👋 Меня зовут Андрей!</h1>
 <h3 align="center">Frontend-разработчик.</h3>
 
+- 💻 Я люблю программировать и создавать что-то новое.
+
+- 🔭 Я ищу работу в компании, где я смогу продолжить развиваться и совершенствовать свои навыки.
+
+- 💬 Я всегда открыт для общения и обмена опытом.
+
+- 💪 Не боюсь трудностей и готов к новым вызовам
+
 - 🌱 Я программирую и прокачиваю себя в **JavaScript, React, Node.js, TypeScript**.
+
 - 📫 Связаться со мной можно по почте: [Email](mailto:andpey.ovchinnikov@yandex.ru)
-- 💬 Мои контакты в мессенджерах и соцсетях:
-  - [Telegram](https://t.me/andrei_ovc)
-  - [VK](https://vk.com/andrey_ibiza)
+
+- 📱 Мои контакты в мессенджерах и соцсетях:
+  - <a href="https://t.me/andrei_ovc"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  - <a href="https://vk.com/andrey_ibiza"><img src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white" /></a>
+
 
 ### 🛠 Мой стек:
+
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -21,7 +33,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg" title="Storybook" alt="Storybook" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="40" height="40"/>&nbsp;
+  <img src="https://www.pixso.net/images/logo/logo-text-light.svg" title="Pixso" alt="Pixso" width="40" height="40"/>
 </div>
 
 ---
