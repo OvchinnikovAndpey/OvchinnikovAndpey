@@ -1,15 +1,15 @@
 <h1 align="center">Всем привет!👋 Меня зовут Андрей!</h1>
 <h3 align="center">Frontend-разработчик.</h3>
 
-- 💻 Я люблю программировать и создавать что-то новое.
+- 💻 Люблю программировать и создавать что-то новое.
 
-- 🔭 Я ищу работу в компании, где я смогу продолжить развиваться и совершенствовать свои навыки.
+- 🔭 Ищу работу в компании, где я смогу продолжить развиваться и совершенствовать свои навыки.
 
-- 💬 Я всегда открыт для общения и обмена опытом.
+- 💬 Всегда открыт для общения и обмена опытом.
 
 - 💪 Не боюсь трудностей и готов к новым вызовам
 
-- 🌱 Я программирую и прокачиваю себя в **JavaScript, React, Node.js, TypeScript**.
+- 🌱 Программирую и прокачиваю себя в **JavaScript, React, Node.js, TypeScript**.
 
 - 📫 Связаться со мной можно по почте: [Email](mailto:andpey.ovchinnikov@yandex.ru)
 
@@ -34,13 +34,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg" title="Storybook" alt="Storybook" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="40" height="40"/>&nbsp;
-  <img src="https://www.pixso.net/images/logo/logo-text-light.svg" title="Pixso" alt="Pixso" width="40" height="40"/>
 </div>
 
 ---
 
 ### 📊 Моя статистика:
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=OvchinnikovAndpey&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=OvchinnikovAndpey&theme=tokyonight)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OvchinnikovAndpey&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
